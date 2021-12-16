@@ -1,0 +1,21 @@
+html, body{
+    padding: 10px;
+    font-size: 20px;
+    font-family: font-family: 'EB Garamond', serif;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 2%;
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+}
+
+p {
+	font-size: 20px;
+    font-family:'EB Garamond', serif;
+}
+
+
+h1 {
+	text-align: center;
+}
